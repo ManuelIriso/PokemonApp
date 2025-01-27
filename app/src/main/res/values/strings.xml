@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PokemonApp</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="captured_pokemons">Pokémon Capturados</string>
+    <string name="pokedex">Pokédex</string>
+    <string name="settings">Ajustes</string>
+</resources>
